@@ -16,8 +16,8 @@ I am very open to anyone to share, learn, and work together with me. Join me in 
     - ⚡ Fun fact: nothing😆 </br>
 </details>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=novaardiansyah&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novaardiansyah&layout=compact" height=100 width="100%" />
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=novaardiansyah&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novaardiansyah&layout=compact" height=100 width="100%" /></a>
 </p>
 
 ### Let's connect!
