@@ -6,18 +6,18 @@ I am very open to anyone to share, learn, and work together with me. Join me in 
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on ...</br>
-    - 🌱 I’m currently learning VueJs For Beginners </br>
+    - 🔭 I’m currently working on Web Developers</br>
+    - 🌱 I’m currently learning Laravel v8.x </br>
     - 👯 I’m looking to collaborate on Github </br>
     - 🤔 I’m looking for help with Organization </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:novaardi810@gmail.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="mailto:novaardiansyah78@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: nothing😆 </br>
 </details>
+
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=novaardiansyah&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" /></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novaardiansyah&layout=compact" height=100 width="100%" /></a>
 </p>
 
 ### Let's connect!
