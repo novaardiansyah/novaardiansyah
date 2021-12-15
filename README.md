@@ -7,7 +7,7 @@ I am very open to anyone to share, learn, and work together with me. Join me in 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on Web Developers</br>
-    - 🌱 I’m currently learning Laravel v8.x </br>
+    - 🌱 I’m currently learning Java Programming </br>
     - 👯 I’m looking to collaborate on Github </br>
     - 🤔 I’m looking for help with Organization </br>
     - 💬 Ask me about anything.</br>
