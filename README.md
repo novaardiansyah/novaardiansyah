@@ -6,8 +6,8 @@ I am very open to anyone to share, learn, and work together with me. Join me in 
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on Web Developers</br>
-    - 🌱 I’m currently learning Java Programming </br>
+    - 🔭 I’m currently working on Web & Mobile Developers</br>
+    - 🌱 I’m currently learning React Native Programming </br>
     - 👯 I’m looking to collaborate on Github </br>
     - 🤔 I’m looking for help with Organization </br>
     - 💬 Ask me about anything.</br>
@@ -16,9 +16,9 @@ I am very open to anyone to share, learn, and work together with me. Join me in 
     - ⚡ Fun fact: nothing😆 </br>
 </details>
 
-<p>
+<!-- <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=novaardiansyah&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" /></a>
-</p>
+</p> -->
 
 ### Let's connect!
 <p>
