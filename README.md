@@ -31,7 +31,7 @@ I am very open to anyone to share, learn, and work together with me. Join me in 
   <a href="https://bit.ly/3oKtMJH" target="_blank">
     <img src="https://img.shields.io/badge/nova_ardiansyah-30302f?style=flat&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://bit.ly/3oKtMJH" target="_blank">
+  <a href="https://novaardiansyah.site/" target="_blank">
     <img src="https://img.shields.io/badge/novaardiansyah-30302f?style=flat&logo=firefox&logoColor=white" />
   </a>
 </p>
