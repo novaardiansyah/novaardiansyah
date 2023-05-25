@@ -3,6 +3,8 @@ I am currently open to every opportunity especially in Information Technology (I
 
 I am very open to anyone to share, learn, and work together with me. Join me in contributing to the project I built here, look around and hope you like it. Don't forget to stare okay! Enjoyyy..
 
+<b><i>Every digit of the code on this account is the sole property of Nova Ardiansyah, is not bound by any "agency/politics/organization" and has been authorized by an official MIT license!</i></b>
+
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
