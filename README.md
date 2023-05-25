@@ -3,7 +3,7 @@ I am currently open to every opportunity especially in Information Technology (I
 
 I am very open to anyone to share, learn, and work together with me. Join me in contributing to the project I built here, look around and hope you like it. Don't forget to stare okay! Enjoyyy..
 
-<b><i>EVERY DIGIT OF THE CODE ON THIS ACCOUNT IS THE SOLE PROPERTY OF NOVA ARDIANSYAH, IS NOT BOUND BY ANY "AGENCY/POLITICS/ORGANIZATION" AND HAS BEEN AUTHORIZED BY AN OFFICIAL MIT LICENSE.</i></b>
+<b><i>EVERY DIGIT OF THE CODE ON THIS ACCOUNT IS THE SOLE PROPERTY OF NOVA ARDIANSYAH, IS NOT BOUND BY ANY "AGENCY/POLITICS/ORGANIZATION" AND HAS BEEN PROTECTED BY AN OFFICIAL MIT LICENSE.</i></b>
 
 ### Stats:
 <details>
