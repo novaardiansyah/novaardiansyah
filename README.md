@@ -1,9 +1,12 @@
-# Hi there 👋 , I'm Nova!
-I am currently open to every opportunity especially in Information Technology (IT) as a Web Developer, I really like to develop something new especially in the field of technology.
+# Greetings! 👋 I'm Nova, Your Mobile/Web Development Ally
 
-I am very open to anyone to share, learn, and work together with me. Join me in contributing to the project I built here, look around and hope you like it. Don't forget to stare okay! Enjoyyy..
+Welcome to my digital realm where innovation and technology intertwine. I thrive on bringing fresh ideas to life in the realm of Information Technology (IT) as a dedicated Web And Mobile Developer.
 
-<b><i>EVERY DIGIT OF THE CODE ON THIS ACCOUNT IS THE SOLE PROPERTY OF NOVA ARDIANSYAH, IS NOT BOUND BY ANY "AGENCY/POLITICS/ORGANIZATION" AND HAS BEEN PROTECTED BY AN OFFICIAL MIT LICENSE.</i></b>
+Collaboration is my forte, and I invite you to journey alongside me. Whether it's sharing insights, gaining knowledge, or jointly crafting remarkable solutions, I'm all ears. Together, let's contribute to the projects I've nurtured here. Feel free to explore, and if you find something captivating, don't hesitate to give it a star! Let's embark on this coding voyage together, shall we?
+
+🚀 Embark on Innovation: Every line of code etched here carries the essence of my creativity. Free from any constraints imposed by "agency politics" or affiliations, it's protected under the official MIT License.
+
+Let's elevate the world of technology, one code at a time.
 
 ### Stats:
 <details>
