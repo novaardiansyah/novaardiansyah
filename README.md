@@ -6,7 +6,11 @@ Collaboration is my forte, and I invite you to journey alongside me. Whether it'
 
 🚀 Embark on Innovation: Every line of code etched here carries the essence of my creativity. Free from any constraints imposed by "agency politics" or affiliations, it's protected under the official MIT License.
 
-Let's elevate the world of technology, one code at a time.
+Let's elevate the world of technology, one code at a time.<br />
+
+<blockquote>
+"I'm overly nice to my enemies and sometimes tough on my allies, <br/>which earns me resentment from both sides, but whenever they need me, I'll be there."
+</blockquote>
 
 ### Stats:
 <details>
