@@ -40,7 +40,7 @@ Let's elevate the world of technology, one code at a time.<br />
   <a href="https://bit.ly/3oKtMJH" target="_blank">
     <img src="https://img.shields.io/badge/nova_ardiansyah-30302f?style=flat&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://novaardiansyah.site/" target="_blank">
+  <a href="https://novaardiansyah.my.id/" target="_blank">
     <img src="https://img.shields.io/badge/novaardiansyah-30302f?style=flat&logo=firefox&logoColor=white" />
   </a>
 </p>
