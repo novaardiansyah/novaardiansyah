@@ -1,5 +1,7 @@
 # Greetings! 👋 I'm Nova, Your Mobile/Web Development Ally
 
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+
 Welcome to my digital realm where innovation and technology intertwine. I thrive on bringing fresh ideas to life in the realm of Information Technology (IT) as a dedicated Web And Mobile Developer.
 
 Collaboration is my forte, and I invite you to journey alongside me. Whether it's sharing insights, gaining knowledge, or jointly crafting remarkable solutions, I'm all ears. Together, let's contribute to the projects I've nurtured here. Feel free to explore, and if you find something captivating, don't hesitate to give it a star! Let's embark on this coding voyage together, shall we?
