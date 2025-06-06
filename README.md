@@ -2,47 +2,86 @@
 
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
-Welcome to my digital realm where innovation and technology intertwine. I thrive on bringing fresh ideas to life in the realm of Information Technology (IT) as a dedicated Web And Mobile Developer.
+Welcome to my digital realm where innovation and technology intertwine. I thrive on bringing fresh ideas to life in the realm of Information Technology (IT) as a dedicated Web and Mobile Developer.
 
-Collaboration is my forte, and I invite you to journey alongside me. Whether it's sharing insights, gaining knowledge, or jointly crafting remarkable solutions, I'm all ears. Together, let's contribute to the projects I've nurtured here. Feel free to explore, and if you find something captivating, don't hesitate to give it a star! Let's embark on this coding voyage together, shall we?
+Collaboration is my forte, and I invite you to journey alongside me. Whether it's sharing insights, gaining knowledge, or jointly crafting remarkable solutions, I'm all ears. Together, let's contribute to a better and more connected world.
 
-🚀 Embark on Innovation: **Every line of code etched here carries the essence of my creativity. Free from any constraints imposed by "agency politics" or affiliations, it's protected under the official MIT License.**
+---
 
-Let's elevate the world of technology, one code at a time.<br />
+## 📑 Table of Contents
+- [About Me](#about-me)
+- [Stats](#stats)
+- [Learning & Projects](#learning--projects)
+- [Let's Connect!](#lets-connect)
+- [Fun Facts](#fun-facts)
+- [Quote](#quote)
 
-<blockquote>
-"I'm overly nice to my enemies and sometimes tough on my allies, <br/>which earns me resentment from both sides, but whenever they need me, I'll be there."
-</blockquote>
+---
 
-### Stats:
-<details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on Web & Mobile Developers</br>
-    - 🌱 I’m currently learning React Native </br>
-    - 👯 I’m looking to collaborate on Github </br>
-    - 🤔 I’m looking for help with Organization </br>
-    - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:novaardiansyah78@gmail.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: nothing😆 </br>
-</details>
+## About Me
 
-<!-- <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=novaardiansyah&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" /></a>
-</p> -->
+🚀 Embark on Innovation:  
+**Every line of code etched here carries the essence of my creativity. Free from any constraints imposed by "agency politics" or affiliations, it's protected under the open-source mindset.**
 
-### Let's connect!
+Let's elevate the world of technology, one code at a time.
+
+---
+
+## Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=novaardiansyah&show_icons=true&theme=tokyonight" alt="Nova's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novaardiansyah&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
+---
+
+## Learning & Projects
+
+- 🔭 **Currently working on:** Web & Mobile Development projects, focusing on user-centric solutions.
+- 🌱 **Learning:** React Native, and exploring advanced JavaScript frameworks.
+- 👯 **Collaboration:** Always open to collaborate on interesting GitHub projects.
+- 🤔 **Looking for help with:** Building or joining impactful tech communities and organizations.
+- 💬 **Ask me about:** Anything! I enjoy discussing ideas and sharing knowledge.
+- 📫 **Reach me at:** [Email me!](mailto:novaardiansyah78@gmail.com)
+- 😄 **Pronouns:** He/Him
+
+**Featured Project:**  
+- [My Portfolio Website](https://novaardiansyah.my.id/)  
+- [See my recent projects here](https://github.com/novaardiansyah?tab=repositories)
+
+---
+
+## Let's Connect!
+
 <p>
   <a href="https://bit.ly/3oPuqFZ" target="_blank">
-    <img src="https://img.shields.io/badge/nova_ardiansyah-30302f?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-30302f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://bit.ly/3ehTpNl" target="_blank">
-    <img src="https://img.shields.io/badge/@novaardiansyah-30302f?style=flat&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-30302f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://bit.ly/3oKtMJH" target="_blank">
-    <img src="https://img.shields.io/badge/nova_ardiansyah-30302f?style=flat&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-30302f?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://novaardiansyah.my.id/" target="_blank">
-    <img src="https://img.shields.io/badge/novaardiansyah-30302f?style=flat&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-30302f?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
+---
+
+## Fun Facts
+
+- ⚡ Fun fact: I love exploring new tech trends and sometimes binge-watch coding tutorials for fun!
+- 🕹️ Outside of coding, I enjoy gaming and photography.
+
+---
+
+## Quote
+
+> "I'm overly nice to my enemies and sometimes tough on my allies, which earns me resentment from both sides, but whenever they need me, I'll be there."
+>
+> — Nova
+
+---
