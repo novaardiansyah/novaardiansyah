@@ -18,7 +18,7 @@ Let's elevate the world of technology, one code at a time.<br />
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on Web & Mobile Developers</br>
-    - 🌱 I’m currently learning Nextjs-13 and Tailwind Css </br>
+    - 🌱 I’m currently learning React Native </br>
     - 👯 I’m looking to collaborate on Github </br>
     - 🤔 I’m looking for help with Organization </br>
     - 💬 Ask me about anything.</br>
