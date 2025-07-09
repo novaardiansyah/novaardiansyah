@@ -80,8 +80,8 @@ Let's elevate the world of technology, one code at a time.
 
 ## Quote
 
-> "I'm overly nice to my enemies and sometimes tough on my allies, which earns me resentment from both sides, but whenever they need me, I'll be there."
+> "Nothing worth having comes easy"
 >
-> — Nova
+> — Theodore Roosevelt
 
 ---
