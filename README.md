@@ -1,87 +1,77 @@
-# Greetings! 👋 I'm Nova, Your Mobile/Web Development Ally
+# Greetings! 👋 I'm Nova, Your AI-Agent Automation Architect
 
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
-Welcome to my digital realm where innovation and technology intertwine. I thrive on bringing fresh ideas to life in the realm of Information Technology (IT) as a dedicated Web and Mobile Developer.
-
-Collaboration is my forte, and I invite you to journey alongside me. Whether it's sharing insights, gaining knowledge, or jointly crafting remarkable solutions, I'm all ears. Together, let's contribute to a better and more connected world.
+Welcome to my digital workshop where I blend the world of **Mobile Development** and **AI-Agent Automation**. I am dedicated to crafting intelligent systems that don't just work, but optimize themselves through integrated AI models.
 
 ---
 
-## 📑 Table of Contents
-- [About Me](#about-me)
-- [Stats](#stats)
-- [Learning & Projects](#learning--projects)
-- [Let's Connect!](#lets-connect)
-- [Fun Facts](#fun-facts)
-- [Quote](#quote)
+## 📑 Roadmap of My Mind
+- [🚀 Strategic Focus](#strategic-focus)
+- [🛠 Essential Toolkit](#essential-toolkit)
+- [📈 Intelligence Metrics](#intelligence-metrics)
+- [🎭 Beyond the Code](#beyond-the-code)
+- [📫 Reach the Source](#reach-the-source)
 
 ---
 
-## About Me
+## Strategic Focus
 
-🚀 Embark on Innovation:  
-**Every line of code etched here carries the essence of my creativity. Free from any constraints imposed by "agency politics" or affiliations, it's protected under the open-source mindset.**
+Currently, my work revolves around two core pillars:
+- **Mobile Development Mastery:** Forging high-performance mobile experiences using React Native and modern ecosystems.
+- **AI-Agent Integration:** Developing autonomous agents and automating workflows with AI. My goal is to inject intelligence into every program I build for maximum optimization.
 
-Let's elevate the world of technology, one code at a time.
+> "I treat every limitation not as an obstacle, but as a catalyst for a more creative solution."
 
 ---
 
-## Stats
+## Essential Toolkit
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=novaardiansyah&show_icons=true&theme=tokyonight" alt="Nova's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novaardiansyah&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+| Category | Technologies |
+| :--- | :--- |
+| **Mobile** | React Native, Expo, Material Design |
+| **Automation** | AI Agents, LLM Integration, Workflow Automation |
+| **Backend** | Laravel Sanctum, REST API, Database Optimization |
+| **Scientific** | Advanced JavaScript, Academic Research, Tech Forensics |
+
+---
+
+## Intelligence Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novaardiansyah&layout=compact&theme=tokyonight" alt="Technical Dominance" />
 </p>
 
----
-
-## Learning & Projects
-
-- 🔭 **Currently working on:** Web & Mobile Development projects, focusing on user-centric solutions.
-- 🌱 **Learning:** React Native, and exploring advanced JavaScript frameworks.
-- 👯 **Collaboration:** Always open to collaborate on interesting GitHub projects.
-- 🤔 **Looking for help with:** Building or joining impactful tech communities and organizations.
-- 💬 **Ask me about:** Anything! I enjoy discussing ideas and sharing knowledge.
-- 📫 **Reach me at:** [Email me!](mailto:novaardiansyah78@gmail.com)
-- 😄 **Pronouns:** He/Him
-
-**Featured Project:**  
-- [My Portfolio Website](https://novaardiansyah.my.id/)  
-- [See my recent projects here](https://github.com/novaardiansyah?tab=repositories)
+*As I shift my focus towards AI-driven automation, these technical metrics evolve to reflect a balance between robust application logic and intelligent optimization.*
 
 ---
 
-## Let's Connect!
+## Beyond the Code
+
+- 📚 **Intellectual Pursuit:** I am deeply passionate about academic and scientific thinking. You'll often find me reading general journals to gain fresh perspectives and knowledge.
+- 🎵 **Audio-Visual Experience:** In my downtime, I immerse myself in music and movies.
+- 🔬 **Curiosity-Driven:** I love every new advancement in the tech world. My thirst for learning is unquenchable, and I thrive on exploring the "next big thing" regardless of any constraints.
+
+---
+
+## Reach the Source
 
 <p>
+  <a href="mailto:novaardiansyah78@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://bit.ly/3oPuqFZ" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-30302f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://bit.ly/3ehTpNl" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-30302f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://bit.ly/3oKtMJH" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-30302f?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://novaardiansyah.my.id/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-30302f?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-## Fun Facts
-
-- ⚡ Fun fact: I love exploring new tech trends and sometimes binge-watch coding tutorials for fun!
-- 🕹️ Outside of coding, I enjoy gaming and photography.
-
----
-
-## Quote
-
 > "Nothing worth having comes easy"
->
-> — Theodore Roosevelt
-
----
+> — *Theodore Roosevelt*
