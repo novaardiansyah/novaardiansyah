@@ -1,8 +1,7 @@
-# Greetings! 👋 I'm Nova, Your AI-Agent Automation Architect
-
+# Greetings! 👋 I'm Nova, 
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
-Welcome to my digital workshop where I blend the world of **Mobile Development** and **AI-Agent Automation**. I am dedicated to crafting intelligent systems that don't just work, but optimize themselves through integrated AI models.
+Welcome to my digital workshop where I blend the world of **Mobile & Web Development** and **AI-Agent Automation**. I am dedicated to crafting intelligent systems that don't just work, but optimize themselves through integrated AI models.
 
 ---
 
